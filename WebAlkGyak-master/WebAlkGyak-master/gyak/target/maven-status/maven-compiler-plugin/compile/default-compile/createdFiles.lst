@@ -1,0 +1,6 @@
+com\gyakorlas\gyak\user\DAO\repo\UserRepository.class
+com\gyakorlas\gyak\user\businessLogic\entity\UserEntity.class
+com\gyakorlas\gyak\GyakApplication.class
+com\gyakorlas\gyak\user\controller\UserController.class
+com\gyakorlas\gyak\user\businessLogic\service\UserDetailsServiceImpl.class
+com\gyakorlas\gyak\user\businessLogic\service\UserService.class
